@@ -1,0 +1,13 @@
+-rw-r--r--@ 1 yasuda  staff  2288  1  3 22:45 subsubdir/cal2023.txt
+
+subsubdir/images:
+total 1320
+-rw-r--r--@ 1 yasuda  staff  214434  1  3 15:11 KSU.jpg
+-rw-r--r--@ 1 yasuda  staff  190695  1  3 15:11 confectioneries.jpg
+-rw-r--r--@ 1 yasuda  staff    2008  1  3 15:26 icon01.png
+-rw-r--r--@ 1 yasuda  staff     893  1  3 15:26 icon02.png
+-rw-r--r--@ 1 yasuda  staff    1199  1  3 15:27 icon03.png
+-rw-r--r--@ 1 yasuda  staff    2674  1  3 15:26 icon04.png
+-rw-r--r--@ 1 yasuda  staff    1283  1  3 15:26 icon05.png
+-rw-r--r--@ 1 yasuda  staff    2631  1  3 15:27 icon06.png
+-rw-r--r--@ 1 yasuda  staff  241523  1  3 15:11 leaves.jpg
