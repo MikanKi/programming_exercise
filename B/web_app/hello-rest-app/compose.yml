@@ -1,0 +1,11 @@
+services:
+  app:                           # サービス名
+    container_name: "hello"      # コンテナ名
+    build:
+      context: .                 # Dockerfile のあるディレクトリ
+      dockerfile: Dockerfile     # Dockerfile のファイル名
+    ports:                       # ポート番号を設定する．
+      - "5001:5001"              # ホスト側のポート:コンテナ側のポート
+    volumes:
+      - ./app:/app               # ホスト側のディレクトリ:コンテナ側のディレクトリ
+    command: python3 /app/app.py # コンテナ起動時に，コンテナ内で実行するコマンド

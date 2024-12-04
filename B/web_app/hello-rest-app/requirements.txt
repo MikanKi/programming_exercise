@@ -1,0 +1,3 @@
+# requirements.txt
+# flask の最新バージョンを指定する．
+flask == 3.0.3
