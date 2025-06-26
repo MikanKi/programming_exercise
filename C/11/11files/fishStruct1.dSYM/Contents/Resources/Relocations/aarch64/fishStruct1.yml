@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     fishStruct1
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _fishSetup, symObjAddr: 0x0, symBinAddr: 0x1000037CC, symSize: 0x48 }
+  - { offsetInCU: 0x3A, offset: 0x3A, size: 0x8, addend: 0x0, symName: _fishSetup, symObjAddr: 0x0, symBinAddr: 0x1000037CC, symSize: 0x48 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: _fishMove, symObjAddr: 0x48, symBinAddr: 0x100003814, symSize: 0x54 }
+  - { offsetInCU: 0xD1, offset: 0xD1, size: 0x8, addend: 0x0, symName: _fishLeft, symObjAddr: 0x9C, symBinAddr: 0x100003868, symSize: 0x270 }
+  - { offsetInCU: 0x104, offset: 0x104, size: 0x8, addend: 0x0, symName: _fishRight, symObjAddr: 0x30C, symBinAddr: 0x100003AD8, symSize: 0x270 }
+  - { offsetInCU: 0x137, offset: 0x137, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x57C, symBinAddr: 0x100003D48, symSize: 0x1A4 }
+...
