@@ -1,0 +1,8 @@
+1   A bidirectional stream 
+2    is composed of sending 
+3    and receiving parts.
+4   
+5   Implementations can represent
+6    states of the bidirectional stream 
+7    as composites of sending 
+8    and receiving stream states. 

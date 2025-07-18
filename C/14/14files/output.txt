@@ -1,0 +1,11 @@
+項目数: 10 平均: 83.80 標準偏差: 0.00
+1006	Sarah Wilson	95
+1002	Emily Johnson	91
+1008	Olivia Taylor	90
+1004	Ashley Davis	88
+1010	Megan Thomas	87
+1001	James Smith	85
+1007	David Moore	81
+1003	Michael Brown	78
+1005	Chris Miller	74
+1009	Joshua Anderson	69

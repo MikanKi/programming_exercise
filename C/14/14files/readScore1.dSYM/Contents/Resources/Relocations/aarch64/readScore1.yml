@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     readScore1
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _appendNode, symObjAddr: 0x0, symBinAddr: 0x1000038E0, symSize: 0x104 }
+  - { offsetInCU: 0x49, offset: 0x49, size: 0x8, addend: 0x0, symName: _appendNode, symObjAddr: 0x0, symBinAddr: 0x1000038E0, symSize: 0x104 }
+  - { offsetInCU: 0xA5, offset: 0xA5, size: 0x8, addend: 0x0, symName: _freeList, symObjAddr: 0x104, symBinAddr: 0x1000039E4, symSize: 0x7C }
+  - { offsetInCU: 0xF3, offset: 0xF3, size: 0x8, addend: 0x0, symName: _sortList, symObjAddr: 0x180, symBinAddr: 0x100003A60, symSize: 0x154 }
+  - { offsetInCU: 0x179, offset: 0x179, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2D4, symBinAddr: 0x100003BB4, symSize: 0x2C0 }
+...
